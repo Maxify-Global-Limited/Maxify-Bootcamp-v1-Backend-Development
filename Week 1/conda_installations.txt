@@ -1,0 +1,13 @@
+ conda install -c conda-forge jupyterlab
+
+ conda install -c conda-forge jupyter-collaboration
+
+ pip install notebook
+
+ conda install -c conda-forge jupyterlab jupyterlab-git
+
+ pip install jupyterlab-code-formatter
+
+ pip install black isort
+
+ conda install -c conda-forge python-lsp-server r-languageserver

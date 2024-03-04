@@ -1,0 +1,21 @@
+# Python Books
+
+Think Python
+Python  Basics
+Python Crash Course
+Python in a Nutshell
+Begin to code with python
+Python and Algorithm Thinking
+
+Django B
+Blogs
+
+1. Learn Django blog
+2. Real Python Tutorials
+3. Github Awesome Django
+
+Links
+
+Web APIs
+How the web works..,
+Django MVT Architecture
