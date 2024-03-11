@@ -1,6 +1,14 @@
 # Backend Development Bootcamp (Batch A)
 
-This repository contains all trainaing materials for maxify backend development bootcamp.
+This repository contains all training materials for maxify backend development bootcamp training. Updates on the repo would be done weekly as the traing progresses.
+
+## Viewing The Materials
+- First make sure you have jupyter notebook or jupyter lab software installed locally on your computer.
+- Run `https://github.com/Maxify-Global-Limited/Maxify-Bootcamp-v1-Backend-Development.git` in your terminal or console
+- Open a notebook instance or jupyter lab instance with the following command `notebook` or `jupyter lab`
+- Open the training materials with notebook or jupyter lab by Navigatong  to the folder where you cloned the repo.
+
+P.S. You can also view the training materials in vscode assuming you have a notebook extension installed.
 
 ## Week 1 : Programming with Python
 - Programming 101
