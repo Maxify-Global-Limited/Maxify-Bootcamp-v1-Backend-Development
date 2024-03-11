@@ -1,4 +1,4 @@
-# Backend Development Training
+# Backend Development Bootcamp (Batch A)
 
 This repository contains all trainaing materials for maxify backend development bootcamp.
 
@@ -8,10 +8,10 @@ This repository contains all trainaing materials for maxify backend development 
 - Hello Python
 - Basic Programming Concepts
 - Core Programming Constructs
- - Data Types
- - Operators
- - Variables
- - Functions
+    - Data Types
+    - Operators
+    - Variables
+    - Functions
 
 ## Week 2 : Programming with Python II
 At the end of the training, participants are expected to understand the following programming topics 
