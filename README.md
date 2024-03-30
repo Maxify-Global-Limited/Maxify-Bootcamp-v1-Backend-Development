@@ -75,3 +75,13 @@ At the end of the training, participants are expected to understand the followin
    - Django Project Structure
    - Django Apps and Packages
    - Django deployment Option
+
+
+# Week 3 : Django Development
+- Virtual Environment
+- Setting Up a Barebone Django project
+- Bulding a pages App in Django
+- Buiding a Simple Note App in Django
+- Testing the Application
+- Deploying Code to Github
+   
