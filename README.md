@@ -77,11 +77,19 @@ At the end of the training, participants are expected to understand the followin
    - Django deployment Option
 
 
-# Week 3 : Django Development
+# Week 3 : Django Development Part 1
 - Virtual Environment
 - Setting Up a Barebone Django project
 - Bulding a pages App in Django
 - Buiding a Simple Note App in Django
+- Testing the Application
+- Deploying Code to Github
+
+ # Week 4 : Django Development Part 2
+- Building a Blog App (C.R.U.D)
+- Django Models
+- Django forms
+- Django Authentication
 - Testing the Application
 - Deploying Code to Github
    
