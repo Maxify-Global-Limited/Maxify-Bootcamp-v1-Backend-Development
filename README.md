@@ -94,4 +94,18 @@ At the end of the training, participants are expected to understand the followin
 - Django Authentication
 - Testing the Application
 - Deploying Code to Github
+
+
+# Week 5 : Django Development part 3
+## Building a Bookstore Application
+
+- Theme
+- Models
+- listings and 
+- Detail pages
+- Media files (user uploads)
+- Working with `.env ` files
+- Production Database (Postgres)
+- Advance Authentication & Custom User Model
+- Model Relationships and Listing (Review(s), Genre and Author)
    
