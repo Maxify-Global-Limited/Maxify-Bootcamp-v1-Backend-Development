@@ -108,4 +108,19 @@ At the end of the training, participants are expected to understand the followin
 - Production Database (Postgres)
 - Advance Authentication & Custom User Model
 - Model Relationships and Listing (Review(s), Genre and Author)
+
+
+
+# Week 6 : Django Development part 3
+## Building a Bookstore Application (version 2)
+
+- Search, 
+- Pagination, 
+- Web Payment Integration
+- User Permissions & Authorisation
+- Email SMTP integration (Google Mail)
+- Whitenoise Static files and Security Setup
+- Github Codebase Deployment 
+- Web application Hosting with Render
+- Continuous Integration and  Deployment 
    
